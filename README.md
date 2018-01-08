@@ -1,8 +1,9 @@
 ## Welcome! 
 
-This page contains SystemVerilog Assertion examples, which may help you in your verification projects
+This repo contains SystemVerilog Assertion examples, which may help you in your verification projects
 
-You can use the URL [http://asicverif.github.io/sva](http://asicverif.github.io/sva) to reach this page.
+The URL for this repo is: 
+[http://asicverif.github.io/sva](http://asicverif.github.io/sva)
 
 ### Support or Contact
 
