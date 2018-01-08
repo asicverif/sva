@@ -4,9 +4,8 @@ This repo contains SystemVerilog Assertion examples, which may help you in your 
 
 We have a website for this README (made with GitHub Pages). The URL for this is: 
 
-```
 [http://asicverif.github.io/sva](http://asicverif.github.io/sva)
-```
+
 
 ### Support or Contact
 
